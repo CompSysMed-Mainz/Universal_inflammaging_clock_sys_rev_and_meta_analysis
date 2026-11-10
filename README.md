@@ -2,7 +2,7 @@
 
 An R package to apply a previously trained **inflammaging clock** to new measurements.
 
-## 1. Install
+# 1. Install
 
 ```r
 install.packages("remotes")
