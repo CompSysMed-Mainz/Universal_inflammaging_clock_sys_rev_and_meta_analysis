@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "Please cite the version-specific DOI associated with the release."
+title: "inflammagingClock: Apply the Inflammaging Clock"
+type: software
+authors:
+  - family-names: "Yang"
+    given-names: "Yufan"
+version: 0.1.0
+repository-code: "https://github.com/CompSysMed-Mainz/Universal_inflammaging_clock_sys_rev_and_meta_analysis"
+license: MIT
+keywords:
+  - inflammaging
+  - biological age
+  - Olink Explore HT

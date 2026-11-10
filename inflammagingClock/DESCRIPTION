@@ -1,0 +1,17 @@
+Package: inflammagingClock
+Title: Apply the Inflammaging Clock
+Version: 0.1.0
+Authors@R:
+    person("Yufan", "Yang", email = "Yufan.Yang@unimedizin-mainz.de", role = c("aut", "cre"))
+Description: Apply a frozen inflammaging clock to new Olink Explore HT
+    measurements. Assays are matched using HGNC gene symbols, replicate
+    assays are averaged within each sample, and missing features are filled
+    with the medians saved during training. The clock can be included within
+    the installed package; no model fitting or recalibration is performed.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Suggests:
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
