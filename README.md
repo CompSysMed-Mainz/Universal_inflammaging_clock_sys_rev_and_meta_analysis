@@ -6,7 +6,7 @@ An R package to apply a previously trained **inflammaging clock** to new measure
 
 ```r
 install.packages("remotes")
-remotes::install_github("USERNAME/REPOSITORY")
+remotes::install_github("CompSysMed-Mainz/Universal_inflammaging_clock_sys_rev_and_meta_analysis")
 ```
 
 # 2. Load and apply
